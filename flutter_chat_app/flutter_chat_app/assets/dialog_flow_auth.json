@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "perceptive-seat-376210",
+    "private_key_id": "7a62b92c5a53cbb9071c5746d85a1b11e49cb6ec",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/URXOwWCBib+4\nibAG5bc9TA4QhQys2CB7smXKMgY53RpGHXC/YRm0/mslfHqSzS4xviHjxNRl+69W\n0XxgZt0DmdAxm4NJZMgQz0EDVjG3NdIIauWZCkF2zxSrxPm/4AlQrxJvhjV1W4cH\nYtOnlScu0ksCzxgqyH0cj0rCHnomdsltlOLVycATI950TK5jI/BCnhPJqwIkuRtZ\nD3nc26X3vRrtBD8xP/kd6cUAHtDZLZVISSrmBTcOzAVcg//Vg/7ilPsJBMPP3TAp\nyq6JeOMSUeo7MEa8G7kyffoUcCD/WFhZ2KtK81rvZYbbhTR5i7lEfZ9VsCbhMwm3\n2RdgrroJAgMBAAECggEADCiWDzbA8FqVwZ+WfUm6FH4x4qDiBlYR8mqLB4eYV7MS\niWQzlyYPoS4OFyrLC2tYxTaFJtmKehS9tvHHSsUexKzQy2ZLuK1b/Z1+Tzz6Gd+k\nwn4wq0I4mNleQfBZwvT1ApitvkK0QQoZEcIZG2xiOhqJQ9tveMCXGuqMYLvZHXqQ\n4rTYoNCS6QmObNjdvuObMlPuxe5ZStLW8LzMPzbOAG0sdMxrFyntPi+5SZXNtxwU\nB3VoQVIrJK25HGvWV4RhMvvu0d3B0NqSWy8QuWhY+xmHG9ZKOjv++562P/SpF1LG\nYTNKbDvEeBYYz9ruR8IIo0BBglSLyZppOQXhCRUSEQKBgQDx+gGJrBHyRPD5ki0V\nyWbB7zKQcz1lg4xnd5tFzsNKClvHOqPTGxylHT3Wmpd5Ydh9FbicUxRtdrukD0vj\ns3ncSmLWKa5NfCgvdBtJAO9Oh4NzAm6D8N6eJbbtPFbX+S7gqP8DaaRmGlOox3GY\nda3mi1KjglRT3e+ML4ml+B2J5QKBgQDKZ3vJawrcBxYZqBU7zdbeLhpfopNGoUoY\n5JrN1rZfDDmBTiK39Z9G9xXOO0wChwTAdF3OBas+FCtQg0+qVxnDu3frG6kXFK6Y\n+PaETEw29zLi0uKzs+4MgaP2Pt+BcxXg63I76oQz9yXZiHHjRY2GrJL/G9JxlQuh\nN3pnNS0dVQKBgQDkjTwYmiMVTtLBF7Vn56QcN17uGzr5gCgErm9Fn0bLzz7izdth\nETGcLyNyaO/7oVSGyRZm6P3ZapVPH3eRqbrHPKdgG1xcKZIXSDZhXPWrmcmpvrk9\n/Ct4+qxuJVjtg5oobtb3lTfHjMRKHZ+I3lYT9LJoaDhYQr75DQmZbuIPlQKBgQCM\nrGG3esMga3hruouPdh+paeeAonCzvTPPm0sQVvOHmep5uUGeE4NxAhfQrxvEAe1G\niVoM75m12rTED4+V91V72VaePCpIVWKIBTjoeFLcPPDL/v/7H8oKPSwk4EvdH4yM\nN3e8tuDNcS+IQjHNYLDdciH0VnTr5kgf83wKMUY6xQKBgQDYCp8X3xzvStT4q8pS\nKBDeaiJa7V1ZLsbyI41HI6HkbuBhTDgVreULtIZ1LBev0IujniWMFUi5QgfWb4XO\nyWpegwr9HiqNa7116b2877jBjmD5IKi7Pi5cwNCKEg9HtKtMh93SCH60gAoFPy/p\nlW5proUGSnM1NKVnCCwesw5nng==\n-----END PRIVATE KEY-----\n",
+    "client_email": "dazai-815@perceptive-seat-376210.iam.gserviceaccount.com",
+    "client_id": "102829248662489335924",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dazai-815%40perceptive-seat-376210.iam.gserviceaccount.com"
+  }
